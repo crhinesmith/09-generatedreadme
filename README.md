@@ -4,8 +4,9 @@
 
   ## Description 
   Utilizing command line inputs in the terminal, a readMe was created. This was done using node.js and prompt.
+  [Walkthrough](Develop/Untitled_%20Sep%207%2C%202022%209_31%20PM%20(3).webm)
 
-  
+
 
   ## Table of Contents
 
